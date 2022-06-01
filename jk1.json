@@ -1,5 +1,23 @@
 {
 "sites": [
+{ // 解析自己找
+    "key": "360",
+    "name": "360",
+      "type": 3,
+      "api": "csp_SP360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+},
+{
+      "key": "LiteApple",
+      "name": "小苹果",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+},
 {
     "key": "csp_77",
     "name": "七七",
