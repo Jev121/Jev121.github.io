@@ -55,16 +55,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-{
-    "key":"csp_xpath_jbb",
-    "name":"剧白白(XP)",
-    "type":3,
-    "api":"csp_XPathMacFilter",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"https://jev.coding.net/p/biu/d/mys/git/raw/master/jk/jubaibai.json"
-},
     {
       "key": "小宝影院",
       "name": "小宝影院",
@@ -222,6 +212,16 @@
       "filterable": 1,
       "ext": "https://jev.coding.net/p/biu/d/mys/git/raw/master/jk/agemys.json"
     },
+    {
+    "key":"csp_xpath_jbb",
+    "name":"剧白白(XP)",
+    "type":3,
+    "api":"csp_XPathMacFilter",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"https://jev.coding.net/p/biu/d/mys/git/raw/master/jk/jubaibai.json"
+},
     {
       "key": "push_agent",
       "name": "推送",
