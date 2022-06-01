@@ -1,5 +1,24 @@
 {
   "sites": [
+{
+    "key":"csp_xpath_lib",
+    "name":"LIBVIO(XP)",
+    "type":3,
+    "api":"csp_XPathFilter",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"https://jev.coding.net/p/biu/d/mys/git/raw/master/jk/lib.json"
+},
+{
+      "key": "七七",
+      "name": "七七",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+},
     { // 解析自己找
       "key": "360",
       "name": "360",
@@ -18,25 +37,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "七七",
-      "name": "七七",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-    "key":"csp_xpath_lib",
-    "name":"LIBVIO(XP)",
-    "type":3,
-    "api":"csp_XPathFilter",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"https://jev.coding.net/p/biu/d/mys/git/raw/master/jk/lib.json"
-},
     {
       "key": "奈落影院",
       "name": "奈落影院",
