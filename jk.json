@@ -230,7 +230,33 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
-    }
+    },
+    //切片线路
+
+{"key": "teyond__zh__南国影视","name": "南国影视〔Q〕","type":1,"api":"http://api.nguonphim.tv/api.php/provide/vod/"                                        ,"searchable":1,"quickSearch":1},
+{"key": "teyond__zh__艾思影院","name": "艾思影院〔Q〕","type":1,"api":"https://www.aitee.cc/api.php/provide/vod/"   ,"playUrl":"https://jx.zjmiao.com/?url=","searchable":1,"quickSearch":1},
+{"key": "teyond__zh__看猫影视","name": "看猫影视〔Q〕","type":1,"api":"http://124.222.83.15:88/api.php/provide/vod/","playUrl":"parse:parwix1"              ,"searchable":1,"quickSearch":1},
+
+//综合线路
+
+{"key": "teyond__zh__奈非影视","name": "奈非影视〔Z〕","type": 3,"api": "csp_AppYsV2"       ,"searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://app.netflixmi.com/api.php/v1.vod"},
+{"key": "teyond__zh__爱酷影视","name": "爱酷影视〔Z〕","type": 3,"api": "csp_AppYsV2"       ,"searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"},
+{"key": "teyond__zh__益达影视","name": "益达影视〔Z〕","type": 3,"api": "csp_AppYsV2"       ,"searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "http://luobu.yss6080.com/mogai_api.php/v1.vod"},
+{"key": "teyond__zh__暖光影视","name": "暖光影视〔Z〕","type": 3,"api": "csp_AppYsV2"       ,"searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://app.bl210.com/api.php/v1.vod"},
+{"key": "teyond__zh__独播影视","name": "独播影视〔Z〕","type": 3,"api": "csp_AppYsV2"       ,"searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "http://35ys.cc/api.php/v1.vod"},
+{"key": "teyond__zh__聚多影视","name": "聚多影视〔Z〕","type": 3,"api": "csp_AppYsV2"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://jdys.weetai.cn/api.php/iptv/vod/"},
+{"key": "teyond__zh__刺猬影视","name": "刺猬影视〔Z〕","type": 3,"api": "csp_AppYsV2"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.cccvvv.top/api.php/iptv/vod/"},
+{"key": "teyond__zh__天天视频","name": "天天视频〔Z〕","type": 3,"api": "csp_AppYs"         ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://app.qianju.cc/api.php/v1.vod"},
+
+//官方线路
+
+{"key": "teyond__gf__极酷影视","name": "极酷影视〔G〕","type": 3,"api": "csp_AppYsV2"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jiku.vip/mogai_api.php/v1.vod"},
+{"key": "teyond__gf__好的影视","name": "好的影视〔G〕","type": 3,"api": "csp_AppYsV2"       ,"searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://123.ok00.xyz/api.php/v1.vod"},
+{"key": "teyond__gf__一零八零","name": "一零八零〔G〕","type": 3,"api": "csp_AppYsV2"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://123.250idc.com/mogai_api.php/v1.vod"},
+
+//绅士线路
+
+{"key": "teyond__fl__芒果资源","name": "芒果资源〔C〕","type":1,"api":"https://mgzyz1.com/api.php/provide/vod/","searchable":0,"quickSearch":0}
   ],
   "lives": [
     {
